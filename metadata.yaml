@@ -1,0 +1,48 @@
+_repo: Daddy-Jake-the-Runaway-and-Short-Stories-Told-after-Dark_60804
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Kemble, E. W. (Edward Windsor)
+    aliases:
+    - Kemble, E. W. (Edward Winsor)
+    - Kemble, Edward Windsor
+    birthdate: 1861
+    deathdate: 1933
+    gutenberg_agent_id: '37155'
+    url: http://www.gutenberg.org/2009/agents/37155
+    wikipedia: http://en.wikipedia.org/wiki/E._W._Kemble
+creator:
+  author:
+    agent_name: Harris, Joel Chandler
+    birthdate: 1848
+    deathdate: 1908
+    gutenberg_agent_id: '868'
+    url: http://www.gutenberg.org/2009/agents/868
+    wikipedia: http://en.wikipedia.org/wiki/Joel_Chandler_Harris
+description: ''
+gutenberg_issued: '2019-11-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60804'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fugitive slaves -- Juvenile fiction'
+- !lcsh 'Plantation life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Folk tales'
+- !lcsh 'African Americans -- Juvenile fiction'
+- !lcsh 'Animals -- Juvenile fiction'
+- !lcsh 'Children''s stories'
+- !lcsh 'Slavery -- Juvenile fiction'
+- GITenberg
+tableOfContents: Daddy Jake, the runaway -- How a witch was caught -- The little boy
+  and his dogs -- How black snake caught the wolf -- Why the guineas stay awake --
+  How the terrapin was taught to fly -- The creature with no claws -- Uncle Remus's
+  wonder story -- The rattlesnake and the polecat -- How the birds talk -- The foolish
+  woman -- The adventures of Simon and Susanna -- Brother Rabbit and the gingercakes
+  -- Brother Rabbit's courtship.
+title: Daddy Jake the Runaway, and Short Stories Told after Dark
+url: http://www.gutenberg.org/ebooks/60804
